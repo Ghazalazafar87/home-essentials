@@ -1,0 +1,6 @@
+{
+  "name": "Dastoor Home Essentials & Décor",
+  "description": "Modern Pakistani home essentials, artisanal handcrafted décor, brass lighting, block-printed cushions, and WhatsApp ordering across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
